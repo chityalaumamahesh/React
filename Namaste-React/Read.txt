@@ -1,0 +1,10 @@
+The zero configuration build tool for the web.JavaScript.CSS.HTML.TypeScript.React.images.SASS.SVG.Vue.libraries.Less.CoffeeScript.Node.Stylus.Pug.Electron.Elm.WebGL.extensions.GraphQL.
+npm i -D //for dev dependencies
+npx executing node modules
+HMR- Hot module Rendering
+File Watcher Algorithm
+Bundling
+Minify
+cleaning our code
+----npx parcel index.html --https take very less time load
+--Https on dev
