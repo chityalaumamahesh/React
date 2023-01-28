@@ -1894,6 +1894,7 @@ const heading = React.createElement(
       </div>
     )
   }
+  
   const burgerKing={
     name:"Burger King",
     image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/Offers_yqoiuk",
