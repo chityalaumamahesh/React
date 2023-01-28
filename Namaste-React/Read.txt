@@ -8,3 +8,29 @@ Minify
 cleaning our code
 ----npx parcel index.html --https take very less time load
 --Https on dev
+
+
+------ component libraries-----------
+base UI -uber
+material UI
+AntUI
+chakra
+styled components
+----framework---
+Tailwind
+
+ /**
+       * Header,
+       *  nav
+          * Logo 
+          * Cart
+       * body,
+       *  -search bar
+       * Restaurant List
+       * Restaurent Card
+       *  Image 
+       *  Name
+       *  cusine
+       * Footer
+       * 
+       */
